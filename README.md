@@ -1,1 +1,1 @@
-# contractClone
+simple sample for contract cloning
